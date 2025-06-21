@@ -51,6 +51,11 @@ Email Mapper:
 
 - UnauthorizedError: An email field was not returned in the profile or id_token parameter, but is required.
 
+## Metaculus
+
+Status: Failed; API Failure With  Docker; Try; No Docker.
+
+
 ## References
 
 - [paperless-ngx](https://docs.paperless-ngx.com/)
